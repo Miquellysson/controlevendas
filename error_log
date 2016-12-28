@@ -1,0 +1,4 @@
+[20-Nov-2015 23:05:39 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/robertog/public_html/controlevendas/autenticar.php on line 6
+[20-Nov-2015 23:05:39 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/robertog/public_html/controlevendas/autenticar.php on line 7
+[20-Nov-2015 23:06:02 America/Sao_Paulo] PHP Notice:  Undefined index: login in /home/robertog/public_html/controlevendas/autenticar.php on line 6
+[20-Nov-2015 23:06:02 America/Sao_Paulo] PHP Notice:  Undefined index: senha in /home/robertog/public_html/controlevendas/autenticar.php on line 7
